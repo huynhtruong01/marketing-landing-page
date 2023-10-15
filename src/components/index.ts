@@ -1,0 +1,7 @@
+export { default as HeroSection } from './hero-section/index.vue'
+export { default as Sponsors } from './sponsors/index.vue'
+export { default as ServiceSection } from './service-section/index.vue'
+export { default as FeatureSection } from './feature-section/index.vue'
+export { default as TestmonialsSection } from './testmonials-section/index.vue'
+export { default as BlogsSection } from './blog-section/index.vue'
+export { default as ContactSection } from './contact/index.vue'

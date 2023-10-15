@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #051441;
+}
+
+button {
+    @apply px-6 py-2.5 rounded-full border;
+}
+
+p {
+    @apply leading-normal;
+}
+
+img {
+    @apply w-full h-full object-cover;
+}
+
+a {
+    @apply inline-block;
+}
